@@ -1,6 +1,8 @@
 ### Hi 👋, I'm MΛX
 
+<!-- DEL Keybase
 - [Keybase](https://keybase.io/maxkorsov "Go to my homepage in Keybase")
+-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxkorsov&layout=compact)](https://github.com/maxkorsov)
 
