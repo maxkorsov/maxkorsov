@@ -4,9 +4,9 @@
 - [Keybase](https://keybase.io/maxkorsov "Go to my homepage in Keybase")
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxkorsov&layout=compact)](https://github.com/maxkorsov)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxkorsov&theme=github_dark&layout=compact)](https://github.com/maxkorsov)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=maxkorsov&show_icons=true)](https://github.com/maxkorsov)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=maxkorsov&show_icons=true&theme=github_dark)](https://github.com/maxkorsov)
 
 <!--
 ### Hi there 👋
