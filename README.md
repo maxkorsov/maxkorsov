@@ -1,7 +1,7 @@
 ### Hi 👋, I'm MΛX
 
-<!-- DEL Keybase
-- [Keybase](https://keybase.io/maxkorsov "Go to my homepage in Keybase")
+<!--
+- [Telegram](https://t.me/maxkorsov "Send message")
 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxkorsov&theme=github_dark&layout=compact)](https://github.com/maxkorsov)
