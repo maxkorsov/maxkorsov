@@ -4,9 +4,9 @@
 - [Telegram](https://t.me/maxkorsov "Send message")
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxkorsov&theme=github_auto&layout=compact)](https://github.com/maxkorsov)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxkorsov&theme=github&layout=compact)](https://github.com/maxkorsov)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=maxkorsov&show_icons=true&theme=github_auto)](https://github.com/maxkorsov)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=maxkorsov&show_icons=true&theme=github)](https://github.com/maxkorsov)
 
 <!--
 ### Hi there 👋
